@@ -1,4 +1,4 @@
-const { contas } = require("./bancodedados");
+const { contas, banco } = require("./bancodedados");
 const { encontrarConta } = require("./controladores/contas");
 
 const acessoAsContas = (req, res, next) => {
@@ -6,7 +6,7 @@ const acessoAsContas = (req, res, next) => {
 
   if (!senha_banco) {
     return res.status(401).json({ mensagem: "A senha é obrigatória" });
-  } else if (senha_banco !== "Cubos123Bank") {
+  } else if (senha_banco !== banco.senha) {
     return res.status(401).json({ mensagem: "A senha é inválida" });
   }
   next();

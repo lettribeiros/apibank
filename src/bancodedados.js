@@ -1,9 +1,9 @@
 module.exports = {
     banco: {
-        nome: 'Cubos Bank',
+        nome: 'API Bank',
         numero: '123',
         agencia: '0001',
-        senha: 'Cubos123Bank'
+        senha: 'Api123Bank'
     },
     numero: 1,
     contas: [],
