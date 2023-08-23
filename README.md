@@ -54,3 +54,7 @@ No Insomnia import o arquivo disponível no projeto.
 ![](./screenshoots/Captura%20de%20tela%202023-08-23%20090533.png)
 
 ![](./screenshoots/Captura%20de%20tela%202023-08-23%20090811.png)
+
+## 📝 Autor
+
+Feito com ❤️ por Letícia Ribeiro 👋🏽 [Entre em contato!](https://www.linkedin.com/in/leticia-ribeiro-dev-eng/)
