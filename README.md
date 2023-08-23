@@ -49,7 +49,7 @@ No Insomnia import o arquivo disponível no projeto.
 
 ## Capturas de tela Insomnia
 
-![](./screenshoots/Captura%20de%20tela%202023-08-23%20090617.png)
+![](./screenshoots/Captura%20de%20tela%202023-08-23%20093107.png)
 
 ![](./screenshoots/Captura%20de%20tela%202023-08-23%20090533.png)
 
